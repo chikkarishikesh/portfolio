@@ -1,36 +1,76 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Rishikesh Chikka — Frontend Developer Portfolio
 
-## Getting Started
+This repository contains my personal frontend developer portfolio, showcasing my work focused on building clean, modern, and conversion-driven SaaS landing pages and business websites.
 
-First, run the development server:
+The portfolio itself is intentionally minimal and serves as a proof of quality, design consistency, and frontend best practices.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+---
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🚀 About Me
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+I’m a frontend developer specializing in building high-conversion SaaS landing pages and business websites using modern frontend technologies.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+I help early-stage startups and businesses:
+- Communicate their product clearly
+- Build trust with clean UI
+- Convert visitors into users
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## 🧩 Featured Work
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### **FlowSync — B2B SaaS Landing Page**
+A polished, responsive SaaS landing page designed to clearly present product value and drive conversions.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+**Focus areas:**
+- Clear information hierarchy
+- Conversion-focused layout
+- Responsive design
+- Subtle animations for better UX
 
-## Deploy on Vercel
+🔗 Live Demo: [flowsync.chikkarishikesh.xyz]  
+💻 Source Code: [https://github.com/chikkarishikesh/flow-sync-b2b-saas-landing-page]
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+## 🛠 Tech Stack
+
+- **Next.js** (App Router)
+- **React**
+- **Tailwind CSS**
+- **Framer Motion**
+- Modern HTML & CSS best practices
+
+---
+
+## ✨ Key Highlights
+
+- Clean, professional UI suitable for SaaS products
+- Subtle animations for improved user experience
+- Mobile-first responsive design
+- Scalable component structure
+- Performance-friendly approach
+
+---
+
+## 📌 Purpose of This Portfolio
+
+This portfolio is an MVP version and will be iteratively improved with:
+- More SaaS-focused projects
+- Figma-to-code case studies
+- Dashboard / admin UI examples
+
+The goal is to demonstrate real-world frontend skills rather than over-designed mockups.
+
+---
+
+## 📬 Contact
+
+If you’re interested in working together or have a project in mind:
+
+- 📧 Email: chikkarishikesh@gmail.com
+- 🌐 Portfolio: [chikkarishikesh.xyz]  
+
+---
+
+> Built with care to reflect how I approach real client projects: simple, clean, and focused on results.

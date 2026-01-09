@@ -130,7 +130,7 @@ export default function Main() {
 
             <div className="mt-6 flex flex-wrap gap-4">
               <a
-                href="https://chikkarishikesh.xyz"
+                href="https://flowsync.chikkarishikesh.xyz"
                 target="_blank"
                 className="px-5 py-2.5 rounded-lg bg-blue-600 text-white font-medium
                            transition-all duration-200
