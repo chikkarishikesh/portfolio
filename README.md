@@ -28,7 +28,7 @@ A polished, responsive SaaS landing page designed to clearly present product val
 - Responsive design
 - Subtle animations for better UX
 
-🔗 Live Demo: [flowsync.chikkarishikesh.xyz]  
+🔗 Live Demo: [https://flowsync.chikkarishikesh.xyz]  
 💻 Source Code: [https://github.com/chikkarishikesh/flow-sync-b2b-saas-landing-page]
 
 ---
