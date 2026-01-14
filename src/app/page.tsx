@@ -55,7 +55,7 @@ export default function Main() {
             </button>
 
             <a
-              href="mailto:chikkarishikesh@gmail.com"
+              href="mailto:freelancing@chikkarishikesh.xyz
               className="px-6 py-3 rounded-lg border border-gray-300
                          transition-colors duration-200
                          hover:bg-gray-100"
@@ -170,7 +170,7 @@ export default function Main() {
           </p>
 
           <a
-            href="mailto:chikkarishikesh@gmail.com"
+            href="mailto:freelancing@chikkarishikesh.xyz
             className="inline-block mt-8 px-8 py-3 rounded-lg bg-blue-600 text-white font-medium
                        transition-all duration-200
                        hover:bg-blue-700 hover:shadow-lg hover:scale-[1.02]"
